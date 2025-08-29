@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "712581167603",
+    "project_id": "hanimo",
+    "storage_bucket": "hanimo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712581167603:android:e7ca593e1c86a3773f7a86",
+        "android_client_info": {
+          "package_name": "com.binaryalley.hinamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712581167603-thjggrnt3q7morg4mgqubve3nnjinnbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0KjECymDUwsPXeOOeMmTK7fPjzUWxtM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712581167603-thjggrnt3q7morg4mgqubve3nnjinnbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712581167603-mjl7pbccf7pisuc2najalkjfn2neg0ln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.binaryalley.hinamo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712581167603:android:0fb4569d098958d13f7a86",
+        "android_client_info": {
+          "package_name": "com.hanimo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712581167603-thjggrnt3q7morg4mgqubve3nnjinnbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0KjECymDUwsPXeOOeMmTK7fPjzUWxtM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712581167603-thjggrnt3q7morg4mgqubve3nnjinnbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712581167603-mjl7pbccf7pisuc2najalkjfn2neg0ln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.binaryalley.hinamo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
